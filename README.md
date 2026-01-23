@@ -10,7 +10,7 @@ This project serves as a foundation, and I plan to gradually enhance it by addin
 (iii)JavaScript (Beginner level)
 
 2)Future Improvements
-Add cart functionality
-Improve UI/UX
-Introduce dynamic product handling
-Implement better state management using JavaScript
+iAdd cart functionality
+iiImprove UI/UX
+iiiIntroduce dynamic product handling
+ivImplement better state management using JavaScript
