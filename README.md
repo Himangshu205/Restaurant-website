@@ -4,13 +4,15 @@ While the project does not include advanced functionality yet, it played an impo
 
 This project serves as a foundation, and I plan to gradually enhance it by adding more meaningful features such as improved user interactions, dynamic content handling, and practical e-commerce functionalities as I continue learning and improving my JavaScript skills.
 
-1)Tech Stack
+1)Tech Stack:-
+
 (i)HTML
 (ii)CSS
 (iii)JavaScript (Beginner level)
 
-2)Future Improvements
-iAdd cart functionality
-iiImprove UI/UX
-iiiIntroduce dynamic product handling
-ivImplement better state management using JavaScript
+2)Future Improvements:-
+
+(i)Add cart functionality
+(ii)Improve UI/UX
+(iii)Introduce dynamic product handling
+(iv)Implement better state management using JavaScript
