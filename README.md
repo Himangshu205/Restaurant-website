@@ -7,7 +7,7 @@ This project serves as a foundation, and I plan to gradually enhance it by addin
 2) CSS
 3) JavaScript (Beginner level)
 
-#2)Future Improvements:-
+# 2)The Future Improvements:-
 
 (i)Add cart functionality
 (ii)Improve UI/UX
