@@ -8,8 +8,7 @@ This project serves as a foundation, and I plan to gradually enhance it by addin
 3) JavaScript (Beginner level)
 
 ### 2)The Future Improvements:-
-
-1)The Add cart functionality
-2)Improve UI/UX
-3)Introduce dynamic product handling
-4)Implement better state management using JavaScript
+1) The Add cart functionality
+2) Improve UI/UX
+3) Introduce dynamic product handling
+4) Implement better state management using JavaScript
